@@ -1,0 +1,36 @@
+.bg-custom {
+    background-color: #EDE4E0 !important;
+}
+
+.text-custom {
+    color: #685F50 !important;
+}
+
+.banner {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.profile-img {
+    position: absolute;
+    bottom: -30px;
+    left: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .profile-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .color-progress-bar {
+    background-color: #685F50 !important;
+  }
+
+  .logo-uni{
+    max-width: 100px;
+  }
